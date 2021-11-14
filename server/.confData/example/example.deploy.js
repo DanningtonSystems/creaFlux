@@ -11,4 +11,4 @@ module.exports = {
         return "Example deployment script, accessible at /manage/deploy";
     },
     variableRouter: deployRouter
-}
+};
